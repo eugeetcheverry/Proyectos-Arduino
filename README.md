@@ -8,5 +8,5 @@ En este caso la tierra esta a la humedad indicada.
 ##"Me ahogaste :|"
 Indica que la tierra tiene exceso de agua.
 
-![Texto alternativo](sensor_suelo_1.jpg)
-![Texto alternativo](sensor_suelo_2.jpg)
+![Texto alternativo](sensor_riego_1.jpg)
+![Texto alternativo](sensor_riego_2.jpg)
